@@ -1,0 +1,8 @@
+body{
+    background-color: gray !important;
+    color: #002b0c;
+    border: 5px solid rgb(62, 0, 62);
+}
+.nomeDaClasse{
+    background-color: pink;
+}
