@@ -1,0 +1,1 @@
+console.log("Olá, mundo!") // uso o parenteses sempre q quero da uma ordem 
